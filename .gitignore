@@ -1,0 +1,21 @@
+#VS user files
+*.suo
+*.user
+.vs/
+
+#VS build products
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+#VS profiling
+*.psess
+*.vsp
+*.vspx
+
+#NuGet
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
